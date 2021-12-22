@@ -13,3 +13,6 @@ By building this application I explored and learned aspects such as:
 - Fetching data from unlimited sources using RapidAPI
 
 Setup: run ```npm i && npm start``` to start the development server
+
+
+Link to Web Application: https://cityspots.netlify.app/
